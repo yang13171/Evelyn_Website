@@ -1,0 +1,27 @@
+html{
+
+  background-color: lavender;
+}
+#size{
+  font-size: 100px;
+  color:blue;
+}
+
+
+.fontcolor{
+  font-size: 50px;
+  color: blue;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+#pic{
+  height: 300px;
+  width: 300px;
+}
+p{
+  font-size: 40px;
+}
